@@ -1,5 +1,10 @@
 @import 'tailwindcss';
+@import '@fontsource-variable/exo-2';
 @plugin '@tailwindcss/typography';
 @plugin "daisyui" {
 	themes: all;
+}
+
+body {
+	font-family: 'Exo 2 Variable', sans-serif;
 }
