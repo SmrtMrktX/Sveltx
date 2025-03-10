@@ -1,8 +1,8 @@
 <script lang="ts">
 	import '../app.css';
 	let { children } = $props();
-	import sveltxLogo from '$lib/sveltxLogo.png';
-	import smxLogo from '$lib/smxLogo.png';
+	import sveltxLogo from '$lib/img/sveltxLogo.png';
+	import smxLogo from '$lib/img/smxLogo.png';
 </script>
 
 <div class="navbar bg-base-100 sticky top-0 shadow-sm">
@@ -72,7 +72,7 @@
 					<path d="M1799 349l242 241-1017 1017L7 590l242-241 775 775 775-775z"></path>
 				</svg>
 			</div>
-			<ul tabindex="0" class="dropdown-content bg-base-300 rounded-box z-1 w-52 p-2 shadow-2xl">
+			<ul tabindex="0" class="dropdown-content bg-base-300 rounded-box z-1 w-32 p-2 shadow-2xl">
 				<li>
 					<input
 						type="radio"
