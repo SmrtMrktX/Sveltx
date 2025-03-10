@@ -1,5 +1,5 @@
 <script>
-	const imageUrl = '/src/lib/heroCover.webp';
+	import heroCover from '$lib/heroCover.webp';
 </script>
 
 <svelte:head>
@@ -11,7 +11,7 @@
 	/>
 </svelte:head>
 
-<div class="hero min-h-screen" style="background-image: url({imageUrl});">
+<div class="hero min-h-screen" style="background-image: url({heroCover});">
 	<div class="hero-overlay"></div>
 	<div class="hero-content text-neutral-content text-center">
 		<div class="max-w-md">
