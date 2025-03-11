@@ -1,5 +1,5 @@
 <p align="center">
-<img src="src/lib/sveltxLogo.png" alt="Sveltx Logo" width="33%">
+<img src="src/lib/img/sveltxLogo.png" alt="Sveltx Logo" width="33%">
 </p>
 
 # Sveltx
