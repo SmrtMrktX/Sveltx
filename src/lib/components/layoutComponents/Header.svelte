@@ -48,7 +48,7 @@
 					<summary class="px-4">Products</summary>
 					<ul class="p-2">
 						<li><a href="/products/product1">Product 1</a></li>
-						<li><a href="/products/product1">Product 2</a></li>
+						<li><a href="/products/product2">Product 2</a></li>
 					</ul>
 				</details>
 			</li>
