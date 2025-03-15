@@ -2,9 +2,7 @@
 	<div class="hero-content text-center">
 		<div class="max-w-md">
 			<h1 class="text-5xl font-bold">Product 1</h1>
-			<button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl my-10"
-				><a href="/">Back</a></button
-			>
+			<a href="/" class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl my-10"> Back </a>
 		</div>
 	</div>
 </div>

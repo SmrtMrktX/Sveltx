@@ -11,7 +11,7 @@
 				🚀 Sveltx – a modern, feature-rich template for building scalable and high-performance web
 				applications with the SvelteKit framework and the DaisyUI library.
 			</p>
-			<button class="btn btn-primary"><a href="/setupGuide">How to Use</a></button>
+			<a class="btn btn-primary" href="/setupGuide">How to Use</a>
 		</div>
 	</div>
 </div>
