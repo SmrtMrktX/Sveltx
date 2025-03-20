@@ -4,7 +4,7 @@
 
 <h1 align="center"> 🚀 Sveltx – a modern, feature-rich template for building scalable and high-performance web applications with the SvelteKit framework and the DaisyUI library. </h1>
 
-
 ```bash
-~$ deploy
+~$ npm i
+~$ npm run dev
 ```
